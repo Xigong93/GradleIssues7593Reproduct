@@ -8,7 +8,7 @@ annotate this line in build.gradle
 buildscript {
     ext.kotlin_version = '1.2.71'
     repositories {
-        //maven { url "https://maven.aliyun.com/repository/gradle-plugin" }// when you annotation this line "./gradlew build" will success
+        //maven { url "https://maven.aliyun.com/repository/gradle-plugin" }// Annotate this line ,build will successed.
         google()
         jcenter()
     }
