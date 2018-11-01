@@ -1,6 +1,5 @@
-# GradleIssues7593Reproduct
-reproduct gradle issues 7593 example project
-issues link https://github.com/gradle/gradle/issues/7593
+# [GradleIssues7593Reproduct](https://github.com/gradle/gradle/issues/7593)
+reproduct gradle issues 7593 example project.
 # How to reproduct error
 Exec `./gradlew build` in terminal.
 # How to fix it
